@@ -1,6 +1,6 @@
 {
   "name": "react-photo-collage",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sopetrichor/react-photo-collage.git"
+    "url": "git+https://github.com/your-username/react-photo-collage.git"
   },
-  "author": "Benny Hsieh",
+  "author": "Your Name",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sopetrichor/react-photo-collage/issues"
+    "url": "https://github.com/your-username/react-photo-collage/issues"
   },
-  "homepage": "https://github.com/sopetrichor/react-photo-collage#readme",
+  "homepage": "https://github.com/your-username/react-photo-collage#readme",
   "keywords": [
     "react",
     "photo",
@@ -46,9 +46,9 @@
     "react-images": "^1.0.0"
   },
   "peerDependencies": {
-    "@types/react": "^16.14.6",
-    "@types/react-dom": "^16.9.12",
-    "react": "^16.14.0",
-    "react-dom": "^16.14.0"
+    "@types/react": "^18.0.37",
+    "@types/react-dom": "^18.0.11",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
